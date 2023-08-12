@@ -8,3 +8,6 @@ src: url(GreatVibes-Regular.ttf);
 font-family: GV;
 }
 
+body {
+    background-image: url("img/changoespejo.png");
+  }
