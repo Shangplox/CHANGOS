@@ -4,6 +4,7 @@ font-family: GV;
 src: url(GreatVibes-Regular.ttf);
 
 }
+
 * {
 font-family: GV;
 }
@@ -11,3 +12,8 @@ font-family: GV;
 body {
     background-color: slategrey;
   }
+
+
+li {
+  display: inline;
+}
